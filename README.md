@@ -1,4 +1,4 @@
-# G0LANGBITLY
+# GOLANGBITLY
 
 A golang implementation of URL shortener like <a href="https://bitly.com/">Bitly</a>
 
@@ -13,13 +13,13 @@ A golang implementation of URL shortener like <a href="https://bitly.com/">Bitly
 
 ## Features
 
-: &nbsp;Users can create custom shorten URL
+ &nbsp;Users can create custom shorten URL
 
-: &nbsp;Rate limiter to restrict users to exploit the API
+ &nbsp;Rate limiter to restrict users to exploit the API
 
-: &nbsp;Containerized the whole application using Docker and Docker-compose for easy set-up
+ &nbsp;Containerized the whole application using Docker and Docker-compose for easy set-up
 
-: &nbsp;Suitable checks for non-redundancy in URL creation 
+ &nbsp;Suitable checks for non-redundancy in URL creation 
 
 ## Project Setup
 - Clone the repository using `git clone <repo_url>`
